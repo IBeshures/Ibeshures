@@ -1,4 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Issac Beshures
+
+I'm a software engineer based in the United States. I'm a "retired" electrical engineer who decide to pursue a passion in software engineering. I love interacting with people across the globe to finish large products and learn about the culture along the way, creating home networking for local work, and coding various projects. My github may be a bit barren but it's a work in progress as the original was full of muck and old school projects.
+
+
+## Current projects
+I currently don't have any personal projects I can talk about at the moment. I'm considering ideas and i've been helping develop code and troubleshooting some freelance jobs in my spare time. However, current work-related projects without to much information. I've been the lead developer of a windows GUI application that creates, writes and reads binary files for EEPROMs on elevator systems. 
+
+## My Specialties and Languages 🧰
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://arunpotti.com/wp-content/uploads/2021/11/sql-server_logo.jpg" alt="mysql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github" width="40" height="40"/><img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="VisualStudio" width="40" height="40"/>
 
 <!--
 **IBeshures/Ibeshures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
